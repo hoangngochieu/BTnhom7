@@ -3,7 +3,7 @@ $mang_so = array();
 $mang_duy_nhat = array();
 $so_lan = array();
 // $nhap_mang1 = filter_input(INPUT_POST, 'nhap_mang');
-
+// dfsdf
 if (isset($_POST['nhap_mang'])) {
     $mang_so = explode(",", $_POST['nhap_mang']);
     $mang_duy_nhat = array_unique($mang_so);
