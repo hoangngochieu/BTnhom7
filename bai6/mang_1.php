@@ -1,4 +1,5 @@
 <?php
+// dfsdf
 $ket_qua = 0;
 $mang_so = 0;
 if (isset($_POST['btn_goi'])) {

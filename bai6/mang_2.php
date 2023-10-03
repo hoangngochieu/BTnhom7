@@ -1,5 +1,6 @@
 <?php
 // $n = $_POST["so_phan_tu"];
+// dfsdf
 $n = filter_input(INPUT_POST,'so_phan_tu',FILTER_VALIDATE_INT);
 $mang_so = array($n);
 for ($i = 0; $i < $n; $i++) {
